@@ -37,10 +37,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matiz009&show_icons=true&locale=en" alt="matiz009" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Matiz009&&theme=tokyonight" alt="Matiz009" /></p>
 
-# Github Contributions
-<h4 align="center">Isometric view of contributions in the last year</h4>
-<p align="center">
-	<a href="./profile-3d-contrib/profile-night-green.svg">
-		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
-	</a>
-</p>
