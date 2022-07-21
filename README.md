@@ -1,4 +1,4 @@
-<h1 align="center">Hi there!👋<br> I'm Mati</h1>
+<h1 align="center">Hi there!👋<br>I'm Mati ul Rehman.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matiz009&label=Profile%20views&color=0e75b6&style=flat" alt="matiz009" /> </p>
 <h3 align="center">A Dedicated software engineering student from Pakistan who is willing to improve his skill set.</h3>
 
