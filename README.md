@@ -35,8 +35,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matiz009&show_icons=true&locale=en&layout=compact" alt="matiz009" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matiz009&show_icons=true&locale=en" alt="matiz009" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Matiz009&&theme=tokyonight" alt="Matiz009" /></p>
-
-# Github Metrics
-<p align="center">
-	<img width="625em" src="https://github.com/Matiz009/Matiz009/blob/master/github-metrics.svg" />
-</p>
