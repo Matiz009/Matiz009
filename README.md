@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mati-ul-rehman-34031b1b7/](https://www.linkedin.com/in/mati-ul-rehman-34031b1b7/)
 
-- ⛷️ My Portfolio [https://iammatiz.me]
+- ⛷️ My Portfolio **https://iammatiz.me**
 
 - ⚡ Fun fact **I lack jokes.**
 
