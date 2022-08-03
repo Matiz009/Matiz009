@@ -1,6 +1,7 @@
 <h1 align="center">Hi there!👋<br>I'm Mati ul Rehman.</h1>
 <h3 align="center"><img src="Matiz_Cover.jpg"/></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matiz009&label=Profile%20views&color=0e75b6&style=flat" alt="matiz009" /> </p>
+<p align="right"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white "/>[https://iammatiz.me]</p>
 <h3 align="center">A Dedicated software engineering student from Pakistan who is willing to improve his skill set.</h3>
 
 
@@ -15,8 +16,6 @@
 - 📫 How to reach me **iammatiz00@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mati-ul-rehman-34031b1b7/](https://www.linkedin.com/in/mati-ul-rehman-34031b1b7/)
-
-- ⛷️ My Portfolio **https://iammatiz.me**
 
 - ⚡ Fun fact **I lack jokes.**
 
