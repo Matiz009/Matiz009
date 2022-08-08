@@ -68,9 +68,3 @@
 
 <br>
 
-### Last Year's Skyline:
-<p align="center">
-	<a href="Matiz009-2021.svg">
-		<img width="900em" src="Matiz009-2021.svg">
-	</a>
-</p>
