@@ -69,4 +69,4 @@
 <br>
 
 ### Last Year's Skyline
-<p align="center"> <img src="https://skyline.github.com/Matiz009/2021" alt="matiz009" /> </p>
+<model-viewer src="Matiz009-2021.stl" alt="VR Headset" auto-rotate camera-controls ar ios-src="Matiz009-2021.stl"></model-viewer>
