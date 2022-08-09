@@ -58,13 +58,15 @@
 
 
 
-<br>
-
-[![Matiz's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Matiz009&&theme=xcode)](https://github.com/Matiz009)
-
-
+<br><br>
 
 | <a href="https://github-readme-stats.vercel.app/api?username=Matiz009&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Matiz009&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" alt="Matiz's Github Stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Matiz009&layout=compact&langs_count=7&theme=react&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matiz009&layout=compact&langs_count=7&theme=react&hide_border=true" /></a> |
 | ------------- | ------------- |
 <br>
+
+<br>
+[![Matiz's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Matiz009&&theme=xcode)](https://github.com/Matiz009)
+
+
+
 
