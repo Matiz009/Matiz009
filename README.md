@@ -39,6 +39,11 @@
   - [Programming Fundamentals](https://www.coursera.org/account/accomplishments/certificate/PFDHDWS7SDUA)
   - [Front-End Web Development with React](https://www.coursera.org/account/accomplishments/certificate/PVPTZC2L43AE)
   - [The Complete Modern JavaScript Masterclass: Build 5 Projects](https://www.udemy.com/certificate/UC-7a9b1002-6a4a-433e-8b01-f82d537f5771/)
+ 
+ 
+ <h5>
+ <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Matiz009&show_icons=true&locale=en&layout=demo&theme=black-ice&hide_border=true" />
+</h5>
   
    ### ⚡Top Repositories
    <a href="https://github.com/Matiz009/NLP-Processing">
@@ -66,6 +71,4 @@
 
 [![Matiz's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Matiz009&&theme=xcode)](https://github.com/Matiz009)
 
-<h5>
- <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Matiz009&show_icons=true&locale=en&layout=demo&theme=blue-green&hide_border=false" />
-</h5>
+
