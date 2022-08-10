@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I lack jokes.**
 
-- :mag_right: My Portfolio [https://iammatiz.me]
+- :mag_right: My Portfolio **https://iammatiz.me**
 
 
 
