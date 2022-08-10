@@ -67,5 +67,5 @@
 [![Matiz's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Matiz009&&theme=xcode)](https://github.com/Matiz009)
 
 <h5>
- <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Matiz009&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+ <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Matiz009&show_icons=true&locale=en&layout=demo&theme=blue-green&hide_border=false" />
 </h5>
