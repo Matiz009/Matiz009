@@ -4,7 +4,7 @@
 <h3 align="center">A Dedicated software engineering student from Pakistan who is willing to improve his skill set.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matiz009" alt="matiz009" /></a> </p>
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub
 
 - 🔭 I’m currently working on [React JS](https://github.com/Matiz009/React-Learning)
 
