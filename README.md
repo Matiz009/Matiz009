@@ -1,6 +1,6 @@
 <h1 align="center">Hi there!👋<br>I'm Mati ul Rehman.</h1>
 <h3 align="center"><img src="Matiz_Cover.jpg"/></h3>
-<p> <img src="https://komarev.com/ghpvc/?username=matiz009&label=Profile%20views&color=0e75b6&style=flat" alt="matiz009" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=matiz009&label=Profile%20views&color=0e75b6&style=flat" alt="matiz009" /> </p>
 <h3 align="center">A Dedicated software engineering student from Pakistan who is willing to improve his skill set.</h3>
 
 
