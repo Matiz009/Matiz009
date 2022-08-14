@@ -51,11 +51,11 @@
    <a href="https://github.com/Matiz009/NLP-Processing">
    <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Matiz009&repo=NLP-Processing&theme=react" />
    </a>
-   <a href="https://github.com/Matiz009/School-Management-System">
-   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Matiz009&repo=School-Management-System&theme=react" />
+   <a href="https://github.com/Matiz009/https://github.com/Matiz009/cui_helpdesk">
+   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Matiz009&repo=cui_helpdesk&theme=react" />
    </a>
-   <a href="https://github.com/Matiz009/OOP-Learning-using-java">
-   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Matiz009&repo=OOP-Learning-using-java&theme=react" />
+   <a href="https://github.com/Matiz009/Chrome_Extension">
+   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Matiz009&repo=Chrome_Extension&theme=react" />
    </a>
    <a href="https://github.com/Matiz009/Visualization-using-folium">
    <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Matiz009&repo=Visualization-using-folium&theme=react" />
