@@ -51,8 +51,8 @@
    <a href="https://github.com/Matiz009/NLP-Processing">
    <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Matiz009&repo=NLP-Processing&theme=react" />
    </a>
-   <a href="https://github.com/Matiz009/https://github.com/Matiz009/cui_helpdesk">
-   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Matiz009&repo=cui_helpdesk&theme=react" />
+   <a href="https://github.com/Matiz009/https://github.com/Matiz009/CUI-Merit-Lists-and-Aggregate-Calculator">
+   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Matiz009&repo=CUI-Merit-Lists-and-Aggregate-Calculator&theme=react" />
    </a>
    <a href="https://github.com/Matiz009/Chrome_Extension">
    <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Matiz009&repo=Chrome_Extension&theme=react" />
