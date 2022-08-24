@@ -71,6 +71,3 @@
 | ------------- | ------------- |
 <br>
 
-[![Matiz's github activity graph](https://activity-graph.herokuapp.com/graph?username=Matiz009)](https://github.com/Matiz009/github-readme-activity-graph)
-
-
