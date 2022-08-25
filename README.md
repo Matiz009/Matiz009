@@ -43,7 +43,18 @@
   - [Front-End Web Development with React](https://www.coursera.org/account/accomplishments/certificate/PVPTZC2L43AE)
   - [The Complete Modern JavaScript Masterclass: Build 5 Projects](https://www.udemy.com/certificate/UC-7a9b1002-6a4a-433e-8b01-f82d537f5771/)
  
- 
+  ### ⚡Top Repositories
+  
+   <a href="https://github.com/Matiz009/https://github.com/Matiz009/CUI-Merit-Lists-and-Aggregate-Calculator">
+   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Matiz009&repo=CUI-Merit-Lists-and-Aggregate-Calculator&theme=react" />
+   </a>
+   <a href="https://github.com/Matiz009/Chrome_Extension">
+   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Matiz009&repo=Chrome_Extension&theme=react" />
+   </a>
+   <a href="https://github.com/Matiz009/Visualization-using-folium">
+   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Matiz009&repo=Visualization-using-folium&theme=react" />
+  </a>
+
  <h5>
  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Matiz009&show_icons=true&locale=en&layout=demo&theme=black-ice&hide_border=true" />
 </h5>
