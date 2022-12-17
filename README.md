@@ -59,7 +59,15 @@
    <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Matiz009&repo=Visualization-using-folium&theme=react" />
   </a>
 
-
+<h2 align='center'><i><a href="https://github.com/Matiz009/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<p align="center">
+<a href="https://github.com/Matiz009/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Matiz009&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/Matiz009/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Matiz009&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
+</p>
 
  <h5>
  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Matiz009&show_icons=true&locale=en&layout=demo&theme=black-ice&hide_border=true" />
