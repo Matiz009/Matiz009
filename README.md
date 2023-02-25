@@ -8,17 +8,15 @@
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Matiz009&theme=darkhub" /></p>
 
-- 🔭 I’m currently working on [React JS](https://github.com/Matiz009/React-Learning)
+- 🔭 I’m currently working on [Dart](https://github.com/Matiz009/Dart_Learning)
 
-- 🌱 I’m currently learning **React JS.**
+- 🌱 I’m currently learning **Android Development.**
 
-- 💬 Ask me about **OOP, JS, Python.**
+- 💬 Ask me about **OOP, JS, MERN.**
 
 - 📫 How to reach me **iammatiz00@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mati-ul-rehman-34031b1b7/](https://www.linkedin.com/in/mati-ul-rehman-34031b1b7/)
-
-- ⚡ Fun fact **I lack jokes.**
 
 - :mag_right: My Portfolio **https://iammatiz.me**
 
