@@ -19,7 +19,8 @@
 
 - :mag_right: My Portfolio **https://iammatiz.me**
 
-
+https://api.codiga.io/project/36123/score/svg
+https://api.codiga.io/project/36123/status/svg
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
