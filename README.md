@@ -18,8 +18,8 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/mati-ul-rehman-34031b1b7/](https://www.linkedin.com/in/mati-ul-rehman-34031b1b7/)
 
 - :mag_right: My Portfolio **https://iammatiz.me**
-- 
 [Code Quality Score](https://api.codiga.io/project/36123/score/svg)
+
 [Code Quality Grade](https://api.codiga.io/project/36123/status/svg)
 
 <h3 align="left">Connect with me:</h3>
