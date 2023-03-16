@@ -19,9 +19,9 @@
 
 - :mag_right: My Portfolio **https://iammatiz.me**
 
-<p align="left"> <img src="https://api.codiga.io/project/36123/score/svg" alt="matiz009" /> </p>
+<p align="left"> <img src="https://api.codiga.io/project/36125/score/svg" alt="matiz009" /> </p>
 
-<p align="left"> <img src="https://api.codiga.io/project/36123/status/svg" alt="matiz009" /> </p>
+<p align="left"> <img src="https://api.codiga.io/project/36125/status/svg" alt="matiz009" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
