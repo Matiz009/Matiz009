@@ -7,7 +7,7 @@
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Matiz009&theme=darkhub" /></p>
 
-- 🔭 I’m currently working on [Dart](https://github.com/Matiz009/Dart_Learning)
+- 🔭 I’m currently working on **Flutter.**
 
 - 🌱 I’m currently learning **Android Development.**
 
