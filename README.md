@@ -19,10 +19,6 @@
 
 - :mag_right: My Portfolio **https://iammatiz.me**
 
-<p align="left"> <img src="https://api.codiga.io/project/36125/score/svg" alt="matiz009" /> </p>
-
-<p align="left"> <img src="https://api.codiga.io/project/36125/status/svg" alt="matiz009" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/its_matiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_matiz" height="30" width="40" /></a>
