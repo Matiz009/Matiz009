@@ -54,10 +54,6 @@
    <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Matiz009&repo=Visualization-using-folium&theme=react" />
   </a>
 
-<h2 align='center'><i><a href="https://github.com/Matiz009/github-readme-activity-graph">Activity Graph 📈</i></h2>
-<p align="center">
-[![Matiz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Matiz009)](https://github.com/Matiz009/github-readme-activity-graph)
-</p>
 
  <h5>
  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Matiz009&show_icons=true&locale=en&layout=demo&theme=black-ice&hide_border=true" />
