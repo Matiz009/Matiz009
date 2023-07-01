@@ -56,10 +56,7 @@
 
 <h2 align='center'><i><a href="https://github.com/Matiz009/github-readme-activity-graph">Activity Graph 📈</i></h2>
 <p align="center">
-<a href="https://github.com/Matiz009/github-readme-activity-graph#gh-light-mode-only">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Matiz009&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
-</a>
-[![Matiz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Matiz009&theme=dracula)](https://github.com/Matiz009/github-readme-activity-graph)
+[Matiz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Matiz009)](https://github.com/Matiz009/github-readme-activity-graph)
 </a>
 </p>
 
