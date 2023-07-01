@@ -47,8 +47,8 @@
    <a href="https://github.com/Matiz009/apis">
    <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Matiz009&repo=apis&theme=react" />
    </a>
-   <a href="https://github.com/Matiz009/MERN_PROJECT">
-   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Matiz009&repo=MERN_PROJECT&theme=react" />
+   <a href="https://github.com/Matiz009/mern-blog">
+   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Matiz009&repo=mern-blog&theme=react" />
    </a>
    <a href="https://github.com/Matiz009/Firebase-Flutter">
    <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Matiz009&repo=Firebase-Flutter&theme=react" />
