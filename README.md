@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **iammatiz00@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mati-ul-rehman-34031b1b7/](https://www.linkedin.com/in/mati-ul-rehman-34031b1b7/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/mati-ul-rehman-34031b1b7/](https://www.linkedin.com/in/iammatiz)
 
 - :mag_right: My Portfolio **https://portfolio.iammatiz.tech**
 
