@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mati-ul-rehman-34031b1b7/](https://www.linkedin.com/in/mati-ul-rehman-34031b1b7/)
 
-- :mag_right: My Portfolio **https://iammatiz.me**
+- :mag_right: My Portfolio **https://portfolio.iammatiz.tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
