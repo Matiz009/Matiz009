@@ -39,20 +39,6 @@
   - [Programming Fundamentals](https://www.coursera.org/account/accomplishments/certificate/PFDHDWS7SDUA)
   - [Front-End Web Development with React](https://www.coursera.org/account/accomplishments/certificate/PVPTZC2L43AE)
   - [The Complete Modern JavaScript Masterclass: Build 5 Projects](https://www.udemy.com/certificate/UC-7a9b1002-6a4a-433e-8b01-f82d537f5771/)
- 
-   ### ⚡Top Repositories
-   <a href="https://github.com/Matiz009/matchmate">
-   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Matiz009&repo=matchmate&theme=react" />
-   </a>
-   <a href="https://github.com/Matiz009/apis">
-   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Matiz009&repo=apis&theme=react" />
-   </a>
-   <a href="https://github.com/Matiz009/mern-blog">
-   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Matiz009&repo=mern-blog&theme=react" />
-   </a>
-   <a href="https://github.com/Matiz009/Firebase-Flutter">
-   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Matiz009&repo=Firebase-Flutter&theme=react" />
-  </a>
 
 
  <h5>
@@ -60,12 +46,4 @@
 </h5>
   
  
-
-
-<br><br>
-
-
-| <a href="https://github-readme-stats.vercel.app/api?username=Matiz009&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Matiz009&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" alt="Matiz's Github Stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Matiz009&layout=compact&langs_count=7&theme=react&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matiz009&layout=compact&langs_count=7&theme=react&hide_border=true" /></a> |
-| ------------- | ------------- |
-
 
