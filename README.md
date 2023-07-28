@@ -54,8 +54,16 @@
    <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Matiz009&repo=Firebase-Flutter&theme=react" />
   </a>
  <h5>
+
+   
+<br><br>
+
+
+| <a href="https://github-readme-stats.vercel.app/api?username=Matiz009&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Matiz009&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" alt="Matiz's Github Stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Matiz009&layout=compact&langs_count=7&theme=react&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matiz009&layout=compact&langs_count=7&theme=react&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Matiz009&show_icons=true&locale=en&layout=demo&theme=black-ice&hide_border=true" />
 </h5>
   
- 
 
