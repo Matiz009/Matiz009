@@ -39,6 +39,8 @@
   - [Programming Fundamentals](https://www.coursera.org/account/accomplishments/certificate/PFDHDWS7SDUA)
   - [Front-End Web Development with React](https://www.coursera.org/account/accomplishments/certificate/PVPTZC2L43AE)
   - [The Complete Modern JavaScript Masterclass: Build 5 Projects](https://www.udemy.com/certificate/UC-7a9b1002-6a4a-433e-8b01-f82d537f5771/)
+  - [Prompt Engineering for ChatGPT](https://www.coursera.org/account/accomplishments/verify/V8DSLEQBYCWD)
+  - [Developing Back-End Apps with Node.js and Express](https://www.coursera.org/account/accomplishments/verify/NJJYE3JRJ3W2)
 
 ### ⚡Top Repositories
    <a href="https://github.com/Matiz009/matchmate">
