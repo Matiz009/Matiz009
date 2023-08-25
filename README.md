@@ -7,10 +7,6 @@
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Matiz009&theme=darkhub" /></p>
 
-- 🔭 I’m currently working on **DSA.**
-
-- 🌱 I’m currently learning **WEB Development.**
-
 - 💬 Ask me about **OOP, JS, MERN.**
 
 - 📫 How to reach me **iammatiz00@gmail.com**
