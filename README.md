@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/iammatiz](https://www.linkedin.com/in/iammatiz)
 
-- :mag_right: My Portfolio **https://portfolio.iammatiz.tech**
+- :mag_right: My Portfolio **https://matizportfolio.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
