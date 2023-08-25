@@ -7,8 +7,6 @@
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Matiz009&theme=darkhub" /></p>
 
-- 💬 Ask me about **OOP, JS, MERN.**
-
 - 📫 How to reach me **iammatiz00@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/iammatiz](https://www.linkedin.com/in/iammatiz)
