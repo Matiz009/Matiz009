@@ -60,6 +60,3 @@
 
  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Matiz009&show_icons=true&locale=en&layout=demo&theme=black-ice&hide_border=true" />
 </h5>
-
-[![Matiz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Matiz009&theme=high-contrast)](https://github.com/Matiz009/github-readme-activity-graph)
-
