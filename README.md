@@ -39,9 +39,6 @@
    <a href="https://github.com/Matiz009/matchmate">
    <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Matiz009&repo=matchmate&theme=react" />
    </a>
-   <a href="https://github.com/Matiz009/apis">
-   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Matiz009&repo=apis&theme=react" />
-   </a>
    <a href="https://github.com/Matiz009/mern-blog">
    <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Matiz009&repo=mern-blog&theme=react" />
    </a>
