@@ -16,8 +16,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mati-ul-rehman-34031b1b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mati-ul-rehman-34031b1b7/" height="30" width="40" /></a>
-<a href="https://fb.com/iammatiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iammatiz" height="30" width="40" /></a>
-<a href="https://instagram.com/i_am_matiz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_matiz/" height="30" width="40" /></a>
 <a href="https://discord.gg/its_matizz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Matiz009#6927" height="30" width="40" /></a>
 </p>
 
