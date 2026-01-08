@@ -1,55 +1,32 @@
-<h1 align="center">Hi there!👋<br>I'm Mati ul Rehman.</h1>
+## 👋 Hi, I'm Mati ul Rehman
 
+I am a **Software Engineer** with a strong interest in **data-intensive intelligent systems, artificial intelligence, and secure software architectures**.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matiz009&label=Profile%20views&color=0e75b6&style=flat" alt="matiz009" /> </p>
-<h3 align="center">I am a dedicated software engineering student from Pakistan who is willing to improve his skill set.</h3>
+🎓 **Education**
+- BSc Software Engineering — COMSATS University Islamabad  
+- Ranked **4th in class**
+- Undergraduate **peer-reviewed research publication**
 
+🔬 **Research Interests**
+- Data-Intensive Intelligent Systems  
+- Responsible & Human-Centric AI  
+- Secure and Reliable Software Architectures  
+- Digital Well-Being & Ethical AI  
+- Computer Vision & Visual Intelligence  
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Matiz009&theme=darkhub" /></p>
+💻 **Technical Experience**
+- Scalable, data-driven web applications  
+- Automation workflows & system integrations  
+- Low-code and full-stack development  
+- Performance-critical components  
+- Testing, reliability, and assurance in software systems  
 
-- 📫 How to reach me **iammatiz00@gmail.com**
+📚 **Academic & Teaching**
+- Web & Mobile Development Instructor  
+- Guest speaker on AI and No-Code tools  
+- Academic work conducted fully in **English**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/iammatiz](https://www.linkedin.com/in/iammatiz)
+🌍 **Current Goal**
+I am applying to **Erasmus Mundus Joint Master programmes** to pursue advanced training and doctoral research in **AI, Data Engineering, Cybersecurity, and Intelligent Software Systems**, with a focus on building **scalable, trustworthy, and human-centric technologies**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mati-ul-rehman-34031b1b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mati-ul-rehman-34031b1b7/" height="30" width="40" /></a>
-<a href="https://discord.gg/its_matizz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Matiz009#6927" height="30" width="40" /></a>
-</p>
-
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-  ### 📜 Certificates
-  - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/certificate/XR2LGMFAP8VU)
-  - [Responsive Website Basics: Code with HTML, CSS, and JavaScript](https://www.coursera.org/account/accomplishments/certificate/T6SJ9XANKWBJ)
-  - [Programming Fundamentals](https://www.coursera.org/account/accomplishments/certificate/PFDHDWS7SDUA)
-  - [Front-End Web Development with React](https://www.coursera.org/account/accomplishments/certificate/PVPTZC2L43AE)
-  - [The Complete Modern JavaScript Masterclass: Build 5 Projects](https://www.udemy.com/certificate/UC-7a9b1002-6a4a-433e-8b01-f82d537f5771/)
-  - [Prompt Engineering for ChatGPT](https://www.coursera.org/account/accomplishments/verify/V8DSLEQBYCWD)
-  - [Developing Back-End Apps with Node.js and Express](https://www.coursera.org/account/accomplishments/verify/NJJYE3JRJ3W2)
-
-### ⚡Top Repositories
-   <a href="https://github.com/Matiz009/matchmate">
-   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Matiz009&repo=matchmate&theme=react" />
-   </a>
-   <a href="https://github.com/Matiz009/mern-blog">
-   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=Matiz009&repo=mern-blog&theme=react" />
-   </a>
- <h5>
-
-   
-<br><br>
-
-
-| <a href="https://github-readme-stats.vercel.app/api?username=Matiz009&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Matiz009&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" alt="Matiz's Github Stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Matiz009&layout=compact&langs_count=7&theme=react&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matiz009&layout=compact&langs_count=7&theme=react&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-
- <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Matiz009&show_icons=true&locale=en&layout=demo&theme=black-ice&hide_border=true" />
-</h5>
-
-[![Matiz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Matiz009&theme=high-contrast)](https://github.com/Matiz009/github-readme-activity-graph)
-
+📫 Feel free to explore my repositories or connect with me.
